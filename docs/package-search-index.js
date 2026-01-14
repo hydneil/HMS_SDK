@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.android.hdms"},{"l":"com.android.hdms.base"},{"l":"com.android.hdms.configuration"},{"l":"com.android.hdms.device"},{"l":"com.android.hdms.keymap"},{"l":"com.android.hdms.scanner"}]
