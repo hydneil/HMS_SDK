@@ -7,7 +7,10 @@ Doc See https://hydneil.github.io/HMS_SDK/
 - **sdk/**
   - 📂 **Android_CN**
     - [NeutralScanSDK_20231221.zip](./sdk/Android_CN/NeutralScanSDK_20231221.zip)
+    - [扫描引擎接口文档-v14-20260115_112701.pdf](./sdk/Android_CN/扫描引擎接口文档-v14-20260115_112701.pdf)
   - 📂 **Android_EN**
     - [NeutralScanSDK_20240703_EN.zip](./sdk/Android_EN/NeutralScanSDK_20240703_EN.zip)
+    - [Scanner Engine API Instruction-v3-20260115_112901.pdf](./sdk/Android_EN/Scanner Engine API Instruction-v3-20260115_112901.pdf)
   - 📂 **Scan-Uniapp**
     - [NeturalUniappScanSDK_250728.zip](./sdk/Scan-Uniapp/NeturalUniappScanSDK_250728.zip)
+    - [Scan_SDK_Uniapp开发文档-v1-20260115_113525.pdf](./sdk/Scan-Uniapp/Scan_SDK_Uniapp开发文档-v1-20260115_113525.pdf)
