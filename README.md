@@ -14,3 +14,8 @@ Doc See https://hydneil.github.io/HMS_SDK/
   - 📂 **Scan-Uniapp**
     - [NeturalUniappScanSDK_V1.1.1.zip](./sdk/Scan-Uniapp/NeturalUniappScanSDK_V1.1.1.zip)
     - [Scan_SDK_Uniapp开发文档-V1.1.1.pdf](./sdk/Scan-Uniapp/Scan_SDK_Uniapp开发文档-V1.1.1.pdf)
+- **doc/**
+  - 📂 **Heating**
+    - [加热功能使用说明-v1](./doc/Heating/加热功能使用说明-v1.pdf)
+    - [Instructions for Using the Heating Function-v1.pdf](./doc/Heating/Instructions for Using the Heating Function-v1.pdf)
+
