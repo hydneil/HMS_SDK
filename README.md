@@ -17,5 +17,5 @@ Doc See https://hydneil.github.io/HMS_SDK/
 - **doc/**
   - 📂 **Heating**
     - [加热功能使用说明-v1](./doc/Heating/加热功能使用说明-v1.pdf)
-    - [Instructions for Using the Heating Function-v1.pdf](./doc/Heating/Instructions for Using the Heating Function-v1.pdf)
+    - [Instructions_for_Using_the_Heating_Function-v1.pdf](./doc/Heating/Instructions_for_Using_the_Heating_Function-v1.pdf)
 
