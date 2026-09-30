@@ -17,6 +17,12 @@ Doc See https://hydneil.github.io/HMS_SDK/
   - 📂 **UHF**
     - 📂 **00_HD**
         - [UHF_SDK_v1.0.1.zip](./sdk/UHF/00_HD/UHF_SDK_v1.0.1.zip)
+    - 📂 **01_R**
+        - [UHFDemo_v260828.zip](./sdk/UHF/01_R/UHFDemo_v260828.zip)
+    - 📂 **02_S**
+        - [UHFDemoSi_V26.0930.zip](./sdk/UHF/02_S/UHFDemoSi_V26.0930.zip)
+    - 📂 **03_F**
+        - [FMRfid_260923.zip](./sdk/UHF/03_F/FMRfid_260923.zip)
 - **doc/**
   - 📂 **Heating**
     - [加热功能使用说明-v1](./doc/Heating/加热功能使用说明-v1.pdf)
