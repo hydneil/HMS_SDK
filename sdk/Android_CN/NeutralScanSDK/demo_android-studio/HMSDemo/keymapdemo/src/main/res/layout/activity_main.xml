@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="6dp"
+    android:paddingRight="6dp"
+    tools:context=".MainActivity">
+    <Button
+        android:id="@+id/enableremapkey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="enableremapkey" />
+    <Button
+        android:id="@+id/query"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="queryAllMapkey" />
+    <Button
+        android:id="@+id/newkey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mapkeytoNewkey" />
+    <Button
+        android:id="@+id/startActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mapkeytoStartApp" />
+    <Button
+        android:id="@+id/sendBroadcast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mapkeytosendBroadcast" />
+
+    <Button
+        android:id="@+id/clearall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="clearAllMapkey" />
+    <TextView
+        android:id="@+id/barcode_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!" />
+</LinearLayout>
